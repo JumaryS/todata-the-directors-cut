@@ -1,7 +1,11 @@
-# Todata
+# This is not easy 
 
 ### Goal
-Create a To-do list that works
+1. Create a To-do list that works
+2. Don't copy from your fellows
+3. Ask teachers for toggle help
+ 
+
 
 ### What Does That Entail?
 
