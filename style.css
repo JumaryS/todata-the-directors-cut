@@ -243,15 +243,13 @@ ul li.checked::before {
 
   /* Style the input */
 input {
-    margin: 0;
-    border: none;
-    border-radius: 0;
+   border: 10px dotted green;
     width: 75%;
     padding: 10px;
     float: left;
     font-size: 16px;
     color: white;
-    background-color: rgb(134, 133, 133);
+    background-color: rgb(2, 87, 2);
     
 }
 
