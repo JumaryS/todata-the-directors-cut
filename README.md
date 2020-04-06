@@ -33,11 +33,11 @@ It allows a language (JavaScript) to manipulate, structure, and style your websi
 
 ### Some Problems You'll Have To Solve
 
-* How can we toggle the completeness of a todo by clicking on it?
-* How can we change the text of the buttons that are toggling? For example, when we click "Show Priorities", it changes to "Hide Priorities" so that we can toggle that feature back off.
-* How can we access the pulldown menu for adding priority to a todo?
+*Learn to toggle
+*learn to add high/low priority
+*Understand the code
 
 
 ### An Important Guideline:
 
-You should be using INLINE functions for your event listeners. No more having to make (and name!) helper functions.
+Try your best, if you fail at least you'll know what to work on. 
